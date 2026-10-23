@@ -1,4 +1,12 @@
-# Got HI — Human Intelligence?
+# Got HI — Human Intelligence
+
+​Got HI is proudly driven by human-first, non-technical project leadership. While code execution and extension architecture are built collaboratively by the open-source community, the project's strategic direction, values, and governance are guided with a clear philosophy:
+
+​Human Governance Over Automated Authority: Technology should serve human agency, not dictate it. Project priorities are steered by human judgment, community consensus, and transparent discussion.
+
+​Bridging the Gap: Proof that you don't need to write code to lead an impactful open-source project. This project champions accessibility, welcoming non-technical contributors, thinkers, designers, and advocates into the core development conversation.
+
+​Sovereignty First: Every design choice is evaluated through the lens of user empowerment, ensuring the tools we build remain transparent, auditable, and entirely under local user control.
 
 > **A Digital Public Good dedicated to user sovereignty, filtering synthetic noise, and restoring human signal across the web.**
 
